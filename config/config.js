@@ -3,7 +3,7 @@ export default {
   history: 'hash',
   publicPath: '/father-doc/',
   doc: {
-    title: 'father-doc',
+    title: 'or_so',
   },
   extraBabelPlugins: [
     [

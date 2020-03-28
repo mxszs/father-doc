@@ -22,6 +22,10 @@ export default () => <Button type="primary">我是 antd 的按钮</Button>;
 
 <code src="./demo/typescript.tsx" />
 
+## form Demo
+
+<code src="./demo/form.tsx" />
+
 # 一级标题
 
 ## 二级标题
